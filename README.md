@@ -1,15 +1,5 @@
 ## Olá, Meu nome é Eduardo Zanutti [Siga-me no meu Linkedin][linkedin] 👋 
 <br />
-<img align="left" alt="eduardozanutti | LinkedIn" width="150px" src="https://media-exp1.licdn.com/dms/image/C4E03AQFo8kFEyHNr9w/profile-displayphoto-shrink_800_800/0/1636391179904?e=1644451200&v=beta&t=LyuUQlCKCI4qwav7NHHHuJy-xPicy97-OzxwNSLAtcQ"/>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 ## Sou engenheiro e programador com *expertise* em Cientista de Dados e BI!!
 
