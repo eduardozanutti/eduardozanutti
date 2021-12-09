@@ -60,7 +60,7 @@
 <img align="left" alt="Terminal" width="1400px" src="https://github.com/eduardozanutti/projetos_bi/blob/main/chamados/chamados_operador_pbi.png?raw=true"/>
 <br/>
 
-➡️ [mais projetos em...](https://github.com/eduardozanutti)
+➡️ [mais projetos em...](https://github.com/eduardozanutti?tab=repositories)
 
 </details>
 
