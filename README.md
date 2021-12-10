@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Eduardo Zanutti [Siga-me no meu Linkedin][linkedin] 👋 
 <br />
 
-## Sou engenheiro e programador com *expertise* em Cientista de Dados e BI!!
+## Sou engenheiro e programador com *expertise* em Ciência de Dados e BI!!
 
 - 💻 Tenho certificação pela IBM: [Certificado Profissional em Ciência de Dados][professional_certificate]!
 - 🎓 Atualmente aprimorando conhecimentos em Data Science na USP/Esalq: [MBA DataScience e Analytics][mba]
