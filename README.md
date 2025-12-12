@@ -45,6 +45,8 @@ I develop end-to-end analytical solutions, from data engineering to modeling, de
 
 #### **Time Series Forecasting & Hierarchical Reconciliation**
 Development of scalable forecasting pipelines using MLForecast, custom feature engineering, and hierarchical aggregation.
+[Repository](https://github.com/eduardozanutti/ml_timeseries_usp)
+<img width="100%" src="plots/LGBMRegressor/reconciliation_comparison/MinTrace_method-mint_shrink/total/blusa/cd2/best_cases/rec_total_blusa_cd2_11b89cd2791942f8bfd0bd0b4e88c708.png"/>
 
 #### **Industrial Anomaly Detection with Autoencoders**  
 Application of deep learning models to detect pump failures in the oil & gas sector (TRANSPETRO), using multivariate sensor data.
